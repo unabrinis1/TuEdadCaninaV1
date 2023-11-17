@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="result_format">Si fueras perro tu edad seria de %d años  </string>
+    <string name="you_have_to_insert_an_age">Debes insertar una edad.</string>
+    <string name="calculate">Calcular</string>
+    <string name="how_old_are_you">¿Cuantos años tienes?</string>
+    <string name="you_age">Tu edad</string>
+
+
+
+</resources>
